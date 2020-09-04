@@ -1,0 +1,22 @@
+*{
+	margin: 0px,0px,0px,0px;
+	padding: 0px,0px,0px,0px;
+}
+
+.btoption{
+	padding-top: 250px;
+}
+.contacticon{
+	color: #6633ff;
+}
+
+.nav-color{
+	background-color: #6633ff; 
+}
+.footer-color{
+	background-color:#b399ff;
+}
+.text-hover:hover{
+	font-size:15px;
+
+}
